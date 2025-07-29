@@ -1,0 +1,6 @@
+folder,FID,ArcFace_CosSim,SSIM,PSNR,LPIPS
+masks_structured-all_thresh50,214.8607,0.2305,0.7584,12.9343,0.4990
+masks_structured-e_thresh50,110.9330,0.5745,0.8745,16.0838,0.3001
+masks_structured-nm_thresh50,202.0040,0.3610,0.8171,14.1257,0.4042
+masks_edge_25_thresh50,223.7413,0.4339,0.6405,12.2052,0.6837
+masks_edge_50_thresh50,292.3120,0.1102,0.3443,8.9569,1.0105

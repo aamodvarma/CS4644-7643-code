@@ -1,5 +1,5 @@
 # Spatial Masked DDPM models
-This codebase is based on LucidRains PyTorch implementation of Denoising Diffusion Models. We further add three additional features to this implementation,
+We work on LucidRains implementation of DDPM model and further add three additional features to this implementation,
 
 1. Adaptive Noise Injection
 2. Image generate with conditional masks

@@ -1,0 +1,5 @@
+masks_edge_25 | threshold=0.5: avg patch masked = 26.61%
+masks_edge_50 | threshold=0.5: avg patch masked = 55.52%
+masks_structured-all | threshold=0.5: avg patch masked = 21.15%
+masks_structured-e | threshold=0.5: avg patch masked = 10.41%
+masks_structured-nm | threshold=0.5: avg patch masked = 15.89%
